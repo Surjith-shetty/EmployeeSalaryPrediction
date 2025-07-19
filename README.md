@@ -52,3 +52,13 @@ This system uses a **Random Forest Classifier** trained on the `adult.csv` datas
 
 ## 🧩 Project Structure
 
+📦 Employee Salary Prediction
+├── app.py # Streamlit UI
+├── salary_model.pkl # Trained ML model
+├── feature_columns.pkl # Saved feature order for input
+├── employee_salary_logic_based.csv # Cleaned dataset
+├── README.md
+└── Project Report & PPT
+
+##How to run:
+just upload the training data set and run all cells.
